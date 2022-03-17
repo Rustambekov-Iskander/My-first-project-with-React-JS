@@ -1,0 +1,16 @@
+.myButton{
+    padding: 10px 20px;
+    border: 2px solid teal;
+    margin: 0px 5px;
+    border-radius: 10px;
+    color: teal;
+    background-color: transparent;
+    transition: 0.3s;
+    max-height: 50px;
+}
+
+.myButton:hover{
+    background-color: darkcyan;
+    color: whitesmoke;
+    transition: 0.3s;
+}
